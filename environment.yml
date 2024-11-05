@@ -1,0 +1,14 @@
+name: peft
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - jupyter=1.0.0
+  - matplotlib=3.9.2
+  - numpy=2.1.1
+  - pandas=2.2.3
+  - python=3.12.7
+  - pytorch=2.5.1
+  - scikit-learn=1.5.2
+  - tqdm=4.66.5
+  - transformers=4.45.2
